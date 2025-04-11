@@ -1,0 +1,3 @@
+[submodule "ArgoCD"]
+	path = ArgoCD
+	url = https://github.com/yogitashidore/ArgoCD.git
